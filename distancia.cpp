@@ -4,6 +4,7 @@ int main() {
 	double x1, y1, x2, y2, d;
 	cout << "Programa para calcular la distancia entre dos puntos." << endl;
 	cout << "Autor: Juan Perez" << endl;
+	cout << "Fecha: 14 de octubre de 2024" << endl;
 	cout << "x1:";
 	cin >> x1;
 	cout << "y1:";
